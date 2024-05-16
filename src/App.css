@@ -1,0 +1,10 @@
+.lista-previsoes {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: space-evenly;
+
+    padding: 50px;
+}
